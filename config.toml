@@ -1,4 +1,4 @@
-baseURL = "https://thienluhoan.github.io/workshop-template/"
+baseURL = "https://github.com/DD220/AWS_FCJ_PhungGiaDuc_Report/"
 publishDir="public"
 relativeURLs = true
 canonifyURLs = true
@@ -17,7 +17,7 @@ home = [ "HTML", "RSS", "JSON"]
   # Git hub repo link
   editURL = ""
   description = ""
-  author = "thienlh@thienlu.com"
+  author = "Ducpg"
   showVisitedLinks = true
   disableBreadcrumb = false
   disableNextPrev = false
