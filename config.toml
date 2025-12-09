@@ -1,4 +1,4 @@
-baseURL = "https://github.com/DD220/AWS_FCJ_PhungGiaDuc_Report/"
+baseURL = "https://dd220.github.io/AWS_FCJ_PhungGiaDuc_Report/"
 publishDir="public"
 relativeURLs = true
 canonifyURLs = true
