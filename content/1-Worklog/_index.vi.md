@@ -8,26 +8,26 @@ pre: " <b> 1. </b> "
 
 Worklog FCJ 3 tháng:
 
-**Tuần 1:** [Week 1](1.1-Week1/week1_index/)
+**Tuần 1:** [Week 1](1.1-week1/)
 
-**Tuần 2:** [Week 2](1.2-Week2/week2_index/)
+**Tuần 2:** [Week 2](1.2-week2/)
 
-**Tuần 3:** [Week 3](1.3-Week3/week3_index/)
+**Tuần 3:** [Week 3](1.3-week3/)
 
-**Tuần 4:** [Week 4](1.4-Week4/week4_index/)
+**Tuần 4:** [Week 4](1.4-week4/)
 
-**Tuần 5:** [Week 5](1.5-Week5/week5_index/)
+**Tuần 5:** [Week 5](1.5-Week5/)
 
-**Tuần 6:** [Week 6](1.6-Week6/week6_index/)
+**Tuần 6:** [Week 6](1.6-week6/)
 
-**Tuần 7:** [Week 7](1.7-Week7/week7_index/)
+**Tuần 7:** [Week 7](1.7-week7/)
 
-**Tuần 8:** [Week 8](1.8-Week8/week8_index/)
+**Tuần 8:** [Week 8](1.8-week8/)
 
-**Tuần 9:** [Week 9](1.9-Week9/week9_index/)
+**Tuần 9:** [Week 9](1.9-week9/)
 
-**Tuần 10:** [Week 10](1.10-Week10/week10_index/)
+**Tuần 10:** [Week 10](1.10-week10/)
 
-**Tuần 11:** [Week 11](1.11-Week11/week11_index/)
+**Tuần 11:** [Week 11](1.11-week11/)
 
-**Tuần 12:** [Week 12](1.12-Week12/week12_index/)
+**Tuần 12:** [Week 12](1.12-week12/)
