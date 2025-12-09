@@ -29,16 +29,18 @@ The company culture is very positive: everyone respects each other, works seriou
 **6. Internship Policies / Benefits**  
 The company provides an internship allowance and offers flexible working hours when needed. In addition, having the opportunity to join internal training sessions is a big plus.
 
----
 
 ### Additional Questions
-- What did you find **most satisfying** during your internship?  
-- What do you think the company **should improve** for future interns?  
-- If recommending to a friend, would you **suggest they intern here**? Why or why not?  
+- What were you **most satisfied with** during your internship?  
+  * Having the opportunity to experience a large enterprise environment and learn a lot about cloud technologies.
+- What do you think the company should **improve** for future interns?  
+  * Providing drinking water for interns.
+- If recommending to your friends, would you **encourage them to intern here**? Why?  
+  * Absolutely yes, because FCJ is a great starting point for those who have a passion for cloud.
 
----
 
 ### Suggestions & Expectations
 - Do you have any suggestions to improve the internship experience?  
+  * Sharing more in-depth knowledge about cloud security (CloudSec).
 - Would you like to continue this program in the future?  
-- Any other comments (free sharing):
+  * Yes, I would like to continue if possible.

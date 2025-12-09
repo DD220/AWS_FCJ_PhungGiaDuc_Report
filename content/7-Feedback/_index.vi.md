@@ -31,11 +31,15 @@ Công ty có hỗ trợ phụ cấp thực tập và tạo điều kiện về t
 
 ### Một số câu hỏi khác
 - Điều bạn **hài lòng nhất** trong thời gian thực tập?  
-- Điều bạn nghĩ công ty **cần cải thiện** cho các thực tập sinh sau?  
-- Nếu giới thiệu cho bạn bè, bạn có **khuyên họ thực tập ở đây không**? Vì sao?  
+  * Được trải nghiệm ở môi trường doanh nghiệp lớn và có thể học được nhiều kiến thức về cloud
+- Điều bạn nghĩ công ty **cần cải thiện** cho các thực tập sinh sau?
+  * Có thể cung cấp nước lọc cho thực tập sinh  
+- Nếu giới thiệu cho bạn bè, bạn có **khuyên họ thực tập ở đây không**? Vì sao?
+  * Chắc chắn là có vì FCJ là bước khởi đầu cho những bạn có niềm đam mê cloud   
 
 
 ### Đề xuất & mong muốn
-- Bạn có đề xuất gì để cải thiện trải nghiệm trong kỳ thực tập?  
+- Bạn có đề xuất gì để cải thiện trải nghiệm trong kỳ thực tập? 
+  * Có thể chia sẻ sâu hơn nữa về cloudsec  
 - Bạn có muốn tiếp tục chương trình này trong tương lai?
-- Góp ý khác (tự do chia sẻ):
+  * Vẫn muốn tiếp tục chương trình trong tương lai nếu có thể
