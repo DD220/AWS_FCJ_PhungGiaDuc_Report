@@ -5,7 +5,8 @@ chapter: false
 pre: " <b> 3.1. </b> "
 ---
 
-# Giải pháp Xử lý Khiếu nại DCA trong Ngành Tài chính Ô tô (Motor Finance) với Dịch vụ của AWS  
+### Giải pháp Xử lý Khiếu nại DCA trong Ngành Tài chính Ô tô (Motor Finance) với Dịch vụ của AWS 
+ 
 **Tác giả:** Kaushal Goyal, Dogus Gucsav, và Pardeep Kumar  
 **Ngày đăng:** 27/06/2025  
 **Danh mục:** Amazon AppFlow, Amazon Bedrock, Amazon CloudWatch, Amazon Connect, Amazon DynamoDB, Amazon Pinpoint, Amazon QuickSight, Amazon VPC, AWS CloudTrail, AWS Database Migration Service, AWS Glue, AWS IAM, AWS KMS, AWS Lambda, AWS Step Functions, Financial Services, Generative AI, Industries  

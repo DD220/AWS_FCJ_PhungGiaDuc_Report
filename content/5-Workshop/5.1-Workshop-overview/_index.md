@@ -5,7 +5,7 @@ chapter : false
 pre : " <b> 5.1. </b> "
 ---
 
-# DevSecOps Pipeline Overview (GitLab → AWS)
+## DevSecOps Pipeline Overview (GitLab → AWS)
 
 ### Pipeline goals:
 - Automate the entire build process – security scanning – error notification.

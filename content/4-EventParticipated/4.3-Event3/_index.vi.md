@@ -7,8 +7,7 @@ pre: " <b> 4.3. </b> "
 ---
 
 
-
-# Summary Report: “AWS Well-Architected Framework – Security Pillar Workshop”
+# AWS Well-Architected Framework – Security Pillar Workshop
 
 ### Event Objectives
 
@@ -35,7 +34,7 @@ Defense in Depth — layered security approach
 - Review of the Shared Responsibility Model and how it applies to AWS services
 -  Overview of common cloud threats in Vietnam, including misconfigurations, credential compromise, and public-data exposure
 
-#### Pillar 1 — Identity & Access Management (IAM)
+#### Identity & Access Management (IAM)
 
 **Modern IAM Architecture:**
 
@@ -49,7 +48,7 @@ Defense in Depth — layered security approach
 
 - Mini Demo: IAM Policy validation and access simulation
 
-#### Pillar 2 — Detection
+#### Detection
 
 **Detection & Continuous Monitoring:**
 
@@ -67,7 +66,7 @@ Security Hub compliance findings
 
 - Concept of Detection-as-Code for repeatable and auditable monitoring rules
 
-#### Pillar 3 — Infrastructure Protection
+#### Infrastructure Protection
 
 **Network & Workload Security:**
 
@@ -79,7 +78,7 @@ Security Hub compliance findings
 
 - Workload-level protection for EC2, ECS, and EKS environments
 
-#### Pillar 4 — Data Protection
+#### Data Protection
 
 **Encryption, Keys & Secrets:**
 
@@ -90,7 +89,7 @@ Security Hub compliance findings
 - Managing sensitive configuration with Secrets Manager and Parameter Store
 
 - Data classification and guardrails aligned with compliance and governance needs
-#### Pillar 5 — Incident Response
+#### Incident Response
 
 - AWS Incident Response lifecycle
 

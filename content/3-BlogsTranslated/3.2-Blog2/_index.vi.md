@@ -5,7 +5,7 @@ chapter: false
 pre: " <b> 3.2. </b> "
 ---
 
-# Nghiên cứu với Tốc độ Khám phá: AWS Cloud Bursting Loại bỏ Tắc nghẽn Tính toán
+### Nghiên cứu với Tốc độ Khám phá: AWS Cloud Bursting Loại bỏ Tắc nghẽn Tính toán
 
 
 Hãy tưởng tượng bạn vừa có một khám phá đầy hứa hẹn trong nghiên cứu hệ gen, có thể dẫn đến một bước đột phá trong điều trị ung thư. Kết quả sơ bộ rất thuyết phục, nhưng chạy toàn bộ phân tích sẽ tiêu tốn *ba tuần toàn bộ cụm GPU của trường đại học*. Trong khi đó, các nhà nghiên cứu khác cũng đang xếp hàng với những dự án cấp bách.  

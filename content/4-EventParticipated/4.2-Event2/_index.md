@@ -7,7 +7,7 @@ pre: " <b> 4.2. </b> "
 ---
 
 
-# Summary Report: “AWS Cloud Mastery Series #2”
+# AWS Cloud Mastery Series #2
 
 ## Event Objectives
 - Understand the DevOps cultural foundation and how to apply it in enterprises  

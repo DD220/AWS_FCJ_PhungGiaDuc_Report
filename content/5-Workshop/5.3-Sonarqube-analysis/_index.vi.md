@@ -6,7 +6,7 @@ chapter : false
 pre : " <b> 5.3. </b> "
 ---
 
-### SonarQube Analysis Architecture
+## SonarQube Analysis Architecture
 
 ### Sonar Scanner → SonarQube
 Trong giai đoạn build, Sonar Scanner thực hiện:

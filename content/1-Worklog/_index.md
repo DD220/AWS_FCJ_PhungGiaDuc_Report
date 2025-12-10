@@ -6,7 +6,7 @@ chapter: false
 pre: " <b> 1. </b> "
 ---
 
-FCJ 3-month worklog:
+### FCJ 3-month worklog:
 
 **Week 1:** [Week 1](1.1-week1/)
 

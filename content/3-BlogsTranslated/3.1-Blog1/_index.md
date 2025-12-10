@@ -5,7 +5,7 @@ chapter: false
 pre: " <b> 3.1. </b> "
 ---
 
-# Solution for Handling DCA Complaints in the Motor Finance Industry Using AWS Services  
+### Solution for Handling DCA Complaints in the Motor Finance Industry Using AWS Services  
 
 **Authors:** Kaushal Goyal, Dogus Gucsav, and Pardeep Kumar  
 **Published:** June 27, 2025  

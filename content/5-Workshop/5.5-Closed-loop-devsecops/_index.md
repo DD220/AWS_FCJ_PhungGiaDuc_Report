@@ -5,7 +5,7 @@ weight : 5
 chapter : false
 pre : " <b> 5.5. </b> "
 ---
-### DevSecOps Feedback Loop (Closed Cycle)
+## DevSecOps Feedback Loop (Closed Cycle)
 
 The system creates a closed DevSecOps loop:
 Dev commits code → GitLab

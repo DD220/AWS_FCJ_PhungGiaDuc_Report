@@ -5,7 +5,7 @@ chapter: false
 pre: " <b> 3.2. </b> "
 ---
 
-# Research at the Speed of Discovery: How AWS Cloud Bursting Eliminates Computational Bottlenecks
+### Research at the Speed of Discovery: How AWS Cloud Bursting Eliminates Computational Bottlenecks
 
 
 Imagine you’ve made a promising breakthrough in genomic research that could lead to a major advancement in cancer treatment. The preliminary results look strong — but running the full analysis will consume **three weeks of your university’s entire GPU cluster**. Meanwhile, other researchers are waiting in line with equally urgent projects.

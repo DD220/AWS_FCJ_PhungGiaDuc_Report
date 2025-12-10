@@ -6,7 +6,7 @@ chapter : false
 pre : " <b> 5.4. </b> "
 ---
 
-### Lambda Processing + Notification
+## Lambda Processing + Notification
 
 ### API Gateway → Lambda
 API Gateway receives webhook from SonarQube and passes payload to Lambda.

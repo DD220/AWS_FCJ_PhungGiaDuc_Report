@@ -5,7 +5,7 @@ chapter : false
 pre : " <b> 5.1. </b> "
 ---
 
-# DevSecOps Pipeline Overview (GitLab → AWS)
+## DevSecOps Pipeline Overview (GitLab → AWS)
 
 ### Mục tiêu pipeline:
 - Tự động hóa toàn bộ quy trình build – quét bảo mật – thông báo lỗi.

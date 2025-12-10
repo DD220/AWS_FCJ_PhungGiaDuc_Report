@@ -5,7 +5,7 @@ weight : 3
 chapter : false
 pre : " <b> 5.3. </b> "
 ---
-### SonarQube Analysis Architecture
+## SonarQube Analysis Architecture
 
 ### Sonar Scanner → SonarQube
 During the build phase, Sonar Scanner performs:

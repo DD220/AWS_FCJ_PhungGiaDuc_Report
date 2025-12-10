@@ -5,7 +5,7 @@ weight : 2
 chapter : false
 pre : " <b> 5.2. </b> "
 ---
-### CodePipeline Flow (GitLab → AWS)
+## CodePipeline Flow (GitLab → AWS)
 
 ### 1. Source Stage
 - CodePipeline được cấu hình lắng nghe commit từ GitLab (branch: main).

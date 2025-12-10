@@ -6,7 +6,7 @@ chapter: false
 pre: " <b> 4.1. </b> "
 ---
 
-# Summary Report: “AWS Cloud Mastery Series #1”
+# AWS Cloud Mastery Series #1
 
 ## Event Objectives
 - Provide an overview of AWS’s AI/ML ecosystem  

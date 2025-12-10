@@ -10,6 +10,7 @@ pre: " <b> 2. </b> "
 # AWS Security Scan Project – Project Plan  
 ## [Team DevSecOps FCJ] – [FPT University / Internship Program] – [AWS Security Scan Project]
 Date: 2025-10-11
+
 ### TABLE OF CONTENTS
 1.BACKGROUND AND MOTIVATION  
 

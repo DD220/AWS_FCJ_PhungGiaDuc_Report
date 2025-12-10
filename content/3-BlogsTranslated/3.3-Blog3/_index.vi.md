@@ -6,7 +6,7 @@ chapter: false
 pre: " <b> 3.3. </b> "
 ---
 
-# AWS Transform for .NET hiện đã hỗ trợ hỏi đáp về các báo cáo đánh giá và chuyển đổi  
+### AWS Transform for .NET hiện đã hỗ trợ hỏi đáp về các báo cáo đánh giá và chuyển đổi  
 
 **Tác giả:** David Pallmann, Vijay Mandadi, Rakshith Ravi Kumar  
 **Ngày đăng:** 01/07/2025  

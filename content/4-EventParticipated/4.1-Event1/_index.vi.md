@@ -7,7 +7,7 @@ pre: " <b> 4.1. </b> "
 ---
 
 
-# Summary Report: “AWS Cloud Mastery Series #1”
+# AWS Cloud Mastery Series #1
 
 ## Event Objectives
 - Cung cấp cái nhìn tổng quát về hệ sinh thái AI/ML của AWS  

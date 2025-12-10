@@ -16,12 +16,12 @@ pre: " <b> 1.2. </b> "
 * Thực hiện các lab của Module 01.
 
 ### Các công việc cần triển khai trong tuần này:
-| Thứ | Công việc                                                                                                                                                                                   | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu                            |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 2   | - AWS IAM <br> - **Thực hành:** <br>&emsp; + Tạo AdminGroup, AdminUser và đăng nhập thành công  <br>&emsp; + Tạo IAM Role, OperatorUser và thực hiện Switch Role <br>&emsp; + Dọn dẹp IAM User không cần thiết        | 18/08/2025   | 18/08/2025      | <https://000002.awsstudygroup.com/vi/> |
-| 3   | - Amazon VPC & Site-to-Site VPN <br> - **Thực hành:** <br>&emsp; + Tạo EC2 Public & Private  <br>&emsp; + Tạo Elastic IP, NAT Gateway, cập nhật Route Table và Subnet Associations  <br>&emsp; + Tạo EC2 Instance Connect Endpoint  <br>&emsp; + Tạo VPC, cấu hình Subnet + Internet Gateway                                        | 19/08/2025   | 19/08/2025      | <https://000002.awsstudygroup.com/vi/> |
-| 4   | - Amazon EC2 <br> - **Thực hành:** <br>&emsp; + Tạo và kết nối thành công Windows & Linux Instance <br> &emsp; + Thử các tình huống mất Key Pair EC2, giới hạn tài nguyên bằng IAM | 15/09/2025   | 19/09/2025      | <https://000004.awsstudygroup.com/vi/> |
-| 5   | - Database & Storage Foundation - **Thực hành:** <br>&emsp; + AWS Storage Class, Block Storage <br>&emsp; + AWS Managed Database Services                   | 15/09/2025   | 19/09/2025      | <https://specialforce.awsstudygroup.com/#/course/week-2:-database-and-storage-foundation> |
+| Thứ | Công việc                                                                                                                                                                                   | Ngày | Nguồn tài liệu                            |
+| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | ----------------------------------------- |
+| 2   | - AWS IAM <br> - **Thực hành:** <br>&emsp; + Tạo AdminGroup, AdminUser và đăng nhập thành công  <br>&emsp; + Tạo IAM Role, OperatorUser và thực hiện Switch Role <br>&emsp; + Dọn dẹp IAM User không cần thiết        | 15/09/2025    | <https://000002.awsstudygroup.com/vi/> |
+| 3   | - Amazon VPC & Site-to-Site VPN <br> - **Thực hành:** <br>&emsp; + Tạo EC2 Public & Private  <br>&emsp; + Tạo Elastic IP, NAT Gateway, cập nhật Route Table và Subnet Associations  <br>&emsp; + Tạo EC2 Instance Connect Endpoint  <br>&emsp; + Tạo VPC, cấu hình Subnet + Internet Gateway                                        | 16/09/2025   | <https://000002.awsstudygroup.com/vi/> |
+| 4   | - Amazon EC2 <br> - **Thực hành:** <br>&emsp; + Tạo và kết nối thành công Windows & Linux Instance <br> &emsp; + Thử các tình huống mất Key Pair EC2, giới hạn tài nguyên bằng IAM | 17/09/2025  | <https://000004.awsstudygroup.com/vi/> |
+| 5   | - Database & Storage Foundation - **Thực hành:** <br>&emsp; + AWS Storage Class, Block Storage <br>&emsp; + AWS Managed Database Services                   | 18/09/2025  |  |
 
 
 ### Kết quả đạt được tuần 2:

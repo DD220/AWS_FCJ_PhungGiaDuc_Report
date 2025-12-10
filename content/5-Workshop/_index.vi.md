@@ -6,7 +6,7 @@ chapter: false
 pre: " <b> 5. </b> "
 ---
 
-# DevSecOps Security Scan Pipeline trên AWS
+## DevSecOps Security Scan Pipeline trên AWS
 
 #### Tổng quan
 

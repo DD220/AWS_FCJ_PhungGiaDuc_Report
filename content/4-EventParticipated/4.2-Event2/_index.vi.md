@@ -7,7 +7,7 @@ pre: " <b> 4.2. </b> "
 ---
 
 
-# Summary Report: “AWS Cloud Mastery Series #2”
+# AWS Cloud Mastery Series #2
 
 ## Event Objectives
 - Hiểu rõ nền tảng văn hóa DevOps và cách áp dụng trong doanh nghiệp  
